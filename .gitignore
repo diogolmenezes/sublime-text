@@ -1,5 +1,4 @@
-*.pyc
-.DS_Store
-*.cache
-*.last-run
-User/Gist.sublime-settings
+/Local
+/Cache
+/Index
+/Settings/BufferScroll.bin.gz
