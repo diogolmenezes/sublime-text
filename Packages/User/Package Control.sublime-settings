@@ -4,6 +4,7 @@
 	[
 		"AdvancedNewFile",
 		"ApplySyntax",
+		"Autoprefixer",
 		"BufferScroll",
 		"ChangeQuotes",
 		"ColorPicker",
@@ -13,9 +14,12 @@
 		"Handlebars",
 		"Jasmine",
 		"Package Control",
+		"RSpec (snippets and syntax)",
+		"RspecToggle",
 		"SCSS",
 		"SideBarEnhancements",
 		"sublimelint",
-		"Theme - Soda"
+		"Theme - Soda",
+		"WordCount"
 	]
 }
