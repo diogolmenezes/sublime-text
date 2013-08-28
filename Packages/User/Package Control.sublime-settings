@@ -1,5 +1,6 @@
 {
 	"auto_upgrade_last_run": null,
+	"cache_length": 300,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -16,6 +17,7 @@
 		"Package Control",
 		"RSpec (snippets and syntax)",
 		"RspecToggle",
+		"ScopeAlways",
 		"SCSS",
 		"SideBarEnhancements",
 		"sublimelint",

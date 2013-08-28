@@ -2,6 +2,17 @@
 	"auto_close_tags": true,
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": false,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "/",
+			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
+		}
+	],
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
@@ -44,9 +55,5 @@
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true,
-  "auto_complete_triggers": [
-    {"characters": "<", "selector": "text.html"},
-    {"characters": "/", "selector": "string.quoted.double.html,string.quoted.single.html, source.css"}
-  ]
+	"trim_trailing_white_space_on_save": true
 }
