@@ -1,4 +1,5 @@
 [
+  {"keys": ["super+alt+down"], "command": "rspec_toggle"},
   {"keys": ["super+alt+]"], "command": "alignment"},
   {"keys": ["super+alt+]"], "command": "abacus"},
   {"keys": ["super+alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},

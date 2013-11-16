@@ -18,14 +18,7 @@
     },
 
     {
-      "name": "Ruby",
-      "rules": [
-        {"file_name": "\\.ru$"}
-      ]
-    },
-
-    {
-      "name": "RSpec",
+      "name": "fnando/RSpec",
       "rules": [
         {"file_name": "_spec\\.rb$"}
       ]
@@ -34,7 +27,7 @@
     {
       "name": "Jasmine",
       "rules": [
-        {"file_name": "_spec\\.js$"}
+        {"file_name": "(_s|S)pec\\.js$"}
       ]
     },
 

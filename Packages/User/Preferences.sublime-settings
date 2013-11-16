@@ -32,7 +32,10 @@
 		"CVS",
 		".jhw-cache",
 		"tmp",
-		"log"
+		"log",
+		".sass-cache",
+		"node_modules",
+		"pkg"
 	],
 	"font_face": "Menlo",
 	"font_size": 19,
