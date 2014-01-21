@@ -6,26 +6,27 @@
   // If you want to have a syntax applied when new files are created, set new_file_syntax to the name of the syntax to use.
   // The format is exactly the same as "name" in the rules below. For example, if you want to have a new file use
   // JavaScript syntax, set new_file_syntax to 'JavaScript'.
-  "new_file_syntax": "Ruby",
+  "new_file_syntax": "Ruby/Ruby",
 
   // Put your custom syntax rules here:
   "syntaxes": [
     {
       "name": "Ruby on Rails snippets/Ruby on Rails",
       "rules": [
-        {"file_name": "\\.rb$"}
+        {"file_name": "\\.rb$"},
+        {"file_name": "Berksfile"}
       ]
     },
 
     {
-      "name": "fnando/RSpec",
+      "name": "RSpec (snippets and syntax)/Syntaxes/RSpec",
       "rules": [
         {"file_name": "_spec\\.rb$"}
       ]
     },
 
     {
-      "name": "Jasmine",
+      "name": "Jasmine/Syntaxes/Jasmine",
       "rules": [
         {"file_name": "(_s|S)pec\\.js$"}
       ]

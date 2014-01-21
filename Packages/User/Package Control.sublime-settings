@@ -1,11 +1,10 @@
 {
 	"auto_upgrade_last_run": null,
-	"cache_length": 300,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"ApplySyntax",
-		"Autoprefixer",
+		"BracketHighlighter",
 		"BufferScroll",
 		"ChangeQuotes",
 		"ColorPicker",
@@ -22,6 +21,7 @@
 		"Puppet",
 		"RSpec (snippets and syntax)",
 		"RspecToggle",
+		"RubyEval",
 		"RubyToggleString",
 		"ScopeAlways",
 		"SCSS",
