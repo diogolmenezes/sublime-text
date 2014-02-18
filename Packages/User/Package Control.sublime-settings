@@ -2,8 +2,11 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Abacus",
+		"ActionScript 3",
 		"AdvancedNewFile",
 		"ApplySyntax",
+		"Better CoffeeScript",
 		"BracketHighlighter",
 		"BufferScroll",
 		"ChangeQuotes",
@@ -26,8 +29,10 @@
 		"ScopeAlways",
 		"SCSS",
 		"SideBarEnhancements",
+		"SublimeERB",
 		"sublimelint",
 		"Theme - Soda",
+		"Tubaina (afc)",
 		"WordCount"
 	]
 }

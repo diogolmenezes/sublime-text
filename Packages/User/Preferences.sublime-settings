@@ -41,7 +41,7 @@
 		".bundle"
 	],
 	"font_face": "Menlo",
-	"font_size": 19,
+	"font_size": 20,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
