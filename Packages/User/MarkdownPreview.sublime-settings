@@ -1,0 +1,6 @@
+{
+  "parser": "github",
+  "github_mode": "markdown",
+  "github_oauth_token": "b916e941710be84b2b42572b00ad7e6847a4e153",
+  "strip_yaml_front_matter": true
+}

@@ -7,7 +7,6 @@
 		"AdvancedNewFile",
 		"ApplySyntax",
 		"Better CoffeeScript",
-		"BracketHighlighter",
 		"BufferScroll",
 		"ChangeQuotes",
 		"ColorPicker",
@@ -17,6 +16,7 @@
 		"GitGutter",
 		"Handlebars",
 		"INI",
+		"Markdown Preview",
 		"Modific",
 		"nginx",
 		"Package Control",
@@ -26,12 +26,18 @@
 		"RubyEval",
 		"RubyToggleString",
 		"ScopeAlways",
+		"ScopeHunter",
 		"SCSS",
 		"SideBarEnhancements",
+		"sublime-switch-case",
 		"SublimeERB",
 		"sublimelint",
 		"Theme - Soda",
 		"Tubaina (afc)",
 		"WordCount"
+	],
+	"repositories":
+	[
+		"https://github.com/fnando/sublime-switch-case.git"
 	]
 }
