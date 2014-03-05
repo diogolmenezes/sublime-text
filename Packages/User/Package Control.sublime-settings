@@ -3,18 +3,15 @@
 	"installed_packages":
 	[
 		"Abacus",
-		"ActionScript 3",
 		"AdvancedNewFile",
 		"ApplySyntax",
 		"Better CoffeeScript",
+		"BracketHighlighter",
 		"BufferScroll",
 		"ChangeQuotes",
 		"ColorPicker",
 		"Emmet",
 		"Emmet Css Snippets",
-		"Gist",
-		"GitGutter",
-		"Handlebars",
 		"INI",
 		"Markdown Preview",
 		"Modific",
@@ -33,7 +30,7 @@
 		"SublimeERB",
 		"sublimelint",
 		"Theme - Soda",
-		"Tubaina (afc)",
+		"TrailingSpaces",
 		"WordCount"
 	],
 	"repositories":
